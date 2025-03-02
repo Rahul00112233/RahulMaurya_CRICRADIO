@@ -68,10 +68,3 @@ cd cricradio2
 ✅ **Ktor Client** for efficient API handling.  
 ✅ **Secure API Handling** with Authorization headers.  
 
----
-
-## 📌 Contributing
-Feel free to open issues and submit pull requests.
-
----
-
